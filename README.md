@@ -1,3 +1,3 @@
 # Prolog-CLP
 Some exercises in prolog, some using CLP.
-The exercise can be seen in the PDF
+This was a homework assignment. The original problem set can be seen in the PDF.
